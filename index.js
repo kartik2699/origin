@@ -6,5 +6,5 @@ function sub(n1,n2){
     console.log("sum is : "+n1-n2);
 }
 
-console.prompt(add(10,20));
-console.prompt(sub(100,20));
+console.alert(add(10,20));
+console.alert(sub(100,20));
